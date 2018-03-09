@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    align-items: flex-end;
+}
+
+.container .cell {
+    background: #997;
+    height: 1px;
+    width: 4em;
+}
